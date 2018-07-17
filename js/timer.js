@@ -1,7 +1,7 @@
 $(function(){
     function timer(settings){
         var config = {
-            endDate: '2019-07-01 00:01',
+            endDate: '2018-08-01 00:01',
             timeZone: 'Asia/Kolkata',
             hours: $('#hours'),
             minutes: $('#minutes'),
